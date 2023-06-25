@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Laravel 10 Scout Full Text Search Tutorial</title>
+    <title>Laravel 10 Scout Full Text Search Tutorial - shouts.dev</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
